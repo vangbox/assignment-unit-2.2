@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a string called name and is called 'Dane'.
+// If the name is equal to 'Mary', console.log 'Hi, Mary!'
+// If the string name is not 'Mary'
+// console.log 'How do you do?'
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Made 2 variable, secret and code = 123
+// if code equal to 123, secret = string call 'super', than code is * 2
+// if code is lesser than 250, secret = 'duper'
+// console.log the output of secret
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// age and zip is a number and isStudent is a boolean
+// if isStudent equal true and zip is greater than 80000, console.log '`You're a student on the West Coast!'
+// if it's not, if isStudent is false or age is less than 30, console.log 'What are your hobbies?'
+// if it's not, if isStudent equal true, console.log 'Welcome to Prime!', if non above is correct, console.log 'How about the weather?'
 
 //CODE
 /*
